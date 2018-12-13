@@ -13,7 +13,7 @@
 [Command Line Lab](https://github.com/micahwierenga/command-line-lab/)
 
 
-### December 16, 2018
+## December 16, 2018
 
 ### Class
 [CSS Selector Basics](https://github.com/micahwierenga/css-selector-basics/)
