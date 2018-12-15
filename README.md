@@ -24,3 +24,5 @@
 ### Homework
 [CSS Selector Basics](https://github.com/micahwierenga/css-selector-basics/)<br>
 ::Start at "Additional Practice Exercises"
+
+[Styling with CSS](https://github.com/micahwierenga/design-and-css-challenge-lab/)
