@@ -26,3 +26,7 @@
 ::Start at "Additional Practice Exercises"
 
 [Styling with CSS](https://github.com/micahwierenga/design-and-css-challenge-lab/)
+
+
+## December 19, 2018
+[Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
