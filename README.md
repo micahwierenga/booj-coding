@@ -1,11 +1,11 @@
 # booj-coding
 
-[December 26](#december-26)
+[Terminal Basics and CSS Selector Basics](#terminal-basics-and-css-selector-basics)
 
 ## Terminal Basics and CSS Selector Basics
 December 12, 2018
 
-### Class
+### Lessons
 [Terminal Basics Navigating the Filesystem](https://github.com/micahwierenga/terminal-basics-navigating-the-filesystem/)<br>
 ::Stopped at "UNIX permissions and Chmod"
 
