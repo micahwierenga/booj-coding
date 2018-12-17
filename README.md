@@ -1,5 +1,7 @@
 # booj-coding
 
+[December 26](#december-26)
+
 ## December 12, 2018
 
 ### Class
@@ -32,5 +34,5 @@
 
 
 
-## December 26, 2018
+## December 26
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
