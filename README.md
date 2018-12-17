@@ -1,6 +1,13 @@
 # booj-coding
 
-[Terminal Basics and CSS Selector Basics](#terminal-basics-and-css-selector-basics)
+<details>
+  <summary>Contents Map</summary>
+  <ol>
+    <li><a href="#terminal-basics-and-css-selector-basics">Terminal Basics and CSS Selector Basics</a></li>
+  </ol>
+</details>
+
+
 
 ## Terminal Basics and CSS Selector Basics
 December 12, 2018
