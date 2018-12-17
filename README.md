@@ -19,14 +19,18 @@
 [CSS Selector Basics](https://github.com/micahwierenga/css-selector-basics/)<br>
 ::Began at "Classes and IDs"
 
-[CSS Box Model and Positioning](https://github.com/micahwierenga/css-box-model-and-positioning/)
-
 ### Homework
 [CSS Selector Basics](https://github.com/micahwierenga/css-selector-basics/)<br>
 ::Start at "Additional Practice Exercises"
 
+
+## December 23, 2018
+[CSS Box Model and Positioning](https://github.com/micahwierenga/css-box-model-and-positioning/)
+
+### Homework
 [Styling with CSS](https://github.com/micahwierenga/design-and-css-challenge-lab/)
 
 
-## December 19, 2018
+
+## December 26, 2018
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
