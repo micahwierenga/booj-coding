@@ -4,7 +4,7 @@
   <summary>Contents Map</summary>
   <ol>
     <li><a href="#terminal-basics-and-css-selector-basics">Terminal Basics and CSS Selector Basics</a></li>    
-    <li><a href="#css-selector-basics">CSS Selector Basics, cont.</a></li>
+    <li><a href="#css-selector-basics-continued">CSS Selector Basics, continued</a></li>
   </ol>
 </details>
 
