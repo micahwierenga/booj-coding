@@ -5,6 +5,8 @@
   <ol>
     <li><a href="#terminal-basics-and-css-selector-basics">Terminal Basics and CSS Selector Basics</a></li>    
     <li><a href="#css-selector-basics-continued">CSS Selector Basics, continued</a></li>
+    <li><a href="#css-box-model-and-positioning">CSS Box Model and Positioning</a></li>
+    <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
   </ol>
 </details>
 
@@ -44,7 +46,6 @@ December 23, 2018
 
 ### Homework
 [Design and CSS Challenge Lab](https://github.com/micahwierenga/design-and-css-challenge-lab/)
-
 
 
 ## Data Types, Variables, and Arrays
