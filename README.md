@@ -39,7 +39,7 @@ December 16, 2018
 
 
 ## CSS Box Model and Positioning
-December 23, 2018
+December 19, 2018
 
 ### Lesson
 [CSS Box Model and Positioning](https://github.com/micahwierenga/css-box-model-and-positioning/)
