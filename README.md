@@ -48,6 +48,16 @@ December 19, 2018
 ### Homework
 [Design and CSS Challenge Lab](https://github.com/micahwierenga/design-and-css-challenge-lab/)
 
+#### For Further Study
+[Inline vs Inline-Block Display in CSS](https://alligator.io/css/display-inline-vs-inline-block/)
+[Display settings (block, inline-block, inline, and flex)](https://www.youtube.com/watch?v=02EDOT5xYQk)
+[CSS display properties: block, inline, and inline-block — & how to tell the difference](https://medium.com/@DaphneWatson/css-display-properties-block-inline-and-inline-block-how-to-tell-the-difference-7d3a1e6e3051)
+[CSS display: inline vs inline-block](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
+[Introduction to CSS: Block, Inline, Inline-Block, Float, and Clear](https://www.youtube.com/watch?v=kYQomYe9ejU)
+[Understanding CSS Position, Display & Float](https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2)
+[CSS display: inline-block Explained By Creating a Grid](https://www.youtube.com/watch?v=I3zAKyLRciU)
+[Learn Layout](http://learnlayout.com/)
+
 
 ## Git and GitHub
 December 26, 2018
