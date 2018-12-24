@@ -52,4 +52,14 @@ December 19, 2018
 December 26, 2018
 
 ### Lesson
+[Git and GitHub](https://github.com/micahwierenga/git-and-github/)
+
+### Homework
+[Build a Portfolio Website](https://github.com/micahwierenga/build-a-website)
+
+
+## Data Types, Variables, and Arrays
+December 30, 2018
+
+### Lesson
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
