@@ -67,7 +67,7 @@ December 19, 2018
 
 
 ## Git and GitHub
-December 26, 2018
+January 6, 2019
 
 ### Lesson
 [Git and GitHub](https://github.com/micahwierenga/git-and-github/)
@@ -77,7 +77,7 @@ December 26, 2018
 
 
 ## Data Types, Variables, and Arrays
-December 30, 2018
+January 9, 2019
 
 ### Lesson
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
