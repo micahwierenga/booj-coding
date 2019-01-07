@@ -75,6 +75,10 @@ January 6, 2019
 ### Homework
 [Build a Portfolio Website](https://github.com/micahwierenga/build-a-website)
 
+#### For Further Study
+
+[Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1632s)
+
 
 ## Data Types, Variables, and Arrays
 January 9, 2019
