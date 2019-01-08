@@ -7,6 +7,7 @@
     <li><a href="#css-selector-basics-continued">CSS Selector Basics, continued</a></li>
     <li><a href="#css-box-model-and-positioning">CSS Box Model and Positioning</a></li>
     <li><a href="#git-and-github">Git and GitHub</a></li>
+    <li><a href="#dash-part-1">Dash: Part 1</a></li>
     <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
   </ol>
 </details>
