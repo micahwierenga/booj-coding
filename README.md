@@ -80,8 +80,14 @@ January 6, 2019
 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1632s)
 
 
-## Data Types, Variables, and Arrays
+## Dash: Part 1
 January 9, 2019
+
+### Lesson
+[Dash](https://dash.generalassemb.ly/)
+
+
+## Data Types, Variables, and Arrays
 
 ### Lesson
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
