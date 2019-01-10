@@ -84,7 +84,7 @@ January 6, 2019
 ## Dash: Part 1
 January 9, 2019
 
-### Lesson
+### Lesson and Homework
 [Dash](https://dash.generalassemb.ly/)
 
 
