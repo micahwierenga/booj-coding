@@ -81,8 +81,8 @@ January 6, 2019
 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1632s)
 
 
-## Dash: Part 1
-January 9, 2019
+## Dash
+January 9, 2019 / January 13, 2019
 
 ### Lesson and Homework
 [Dash](https://dash.generalassemb.ly/)
