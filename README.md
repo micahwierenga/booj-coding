@@ -94,5 +94,5 @@ January 9, 2019 / January 13, 2019
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
 
 ### Homework
-[Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
+[Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)<br>
 ::Do the "Independent Practice"
