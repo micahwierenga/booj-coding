@@ -89,6 +89,7 @@ January 9, 2019 / January 13, 2019
 
 
 ## Data Types, Variables, and Arrays
+January 30, 2019
 
 ### Lesson
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
