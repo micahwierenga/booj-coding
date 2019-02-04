@@ -9,6 +9,7 @@
     <li><a href="#git-and-github">Git and GitHub</a></li>
     <li><a href="#dash-part-1">Dash: Part 1</a></li>
     <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
+    <li><a href="#javascript-objects">JavaScript Objects</a></li>
   </ol>
 </details>
 
@@ -89,7 +90,7 @@ January 9, 2019 / January 13, 2019
 
 
 ## Data Types, Variables, and Arrays
-January 30, 2019
+February 2, 2019
 
 ### Lesson
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)
@@ -97,3 +98,16 @@ January 30, 2019
 ### Homework
 [Data Types, Variables, and Arrays](https://github.com/micahwierenga/js-data-types/)<br>
 ::Do the "Independent Practice"
+
+
+## JavaScript Objects
+February 6, 2019
+
+### Lesson
+[JavaScript Objects](https://github.com/micahwierenga/js-objects)
+
+### Homework
+[JavaScript Objects](https://github.com/micahwierenga/js-objects)<br>
+::Finish "Challenge"
+
+
