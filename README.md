@@ -10,6 +10,7 @@
     <li><a href="#dash-part-1">Dash: Part 1</a></li>
     <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
     <li><a href="#javascript-objects">JavaScript Objects</a></li>
+    <li><a href="#javascript-functions-and-scope">JavaScript Functions and Scope</a></li>
   </ol>
 </details>
 
