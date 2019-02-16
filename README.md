@@ -111,3 +111,11 @@ February 6, 2019
 ::Finish "Challenge"
 
 
+## JavaScript Functions and Scope
+February 16, 2019
+
+### Lesson
+[JavaScript Functions and Scope](https://github.com/micahwierenga/js-functions-and-scope)
+
+### Homework
+[JavaScript Functions Lab](https://github.com/micahwierenga/js-functions-lab)
