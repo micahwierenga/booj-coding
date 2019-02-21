@@ -11,6 +11,7 @@
     <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
     <li><a href="#javascript-objects">JavaScript Objects</a></li>
     <li><a href="#javascript-functions-and-scope">JavaScript Functions and Scope</a></li>
+    <li><a href="#javascript-functions-and-scope-revisited">JavaScript Functions and Scope (Revisited)</a></li>
     <li><a href="#dom-manipulation-and-events">DOM Manipulation and Events</a></li>
   </ol>
 </details>
@@ -123,8 +124,18 @@ February 16, 2019
 [JavaScript Functions Lab](https://github.com/micahwierenga/js-functions-lab)
 
 
-## DOM Manipulation and Events
+## JavaScript Functions and Scope (Revisited)
 February 20, 2019
+
+### Lesson
+[JavaScript Functions Lab (Revisited)](https://github.com/micahwierenga/js-functions-lab)
+
+### Homework
+[JavaScript Functions Lab (Continued)](https://github.com/micahwierenga/js-functions-lab)
+
+
+## DOM Manipulation and Events
+TBD
 
 ### Lesson
 [DOM Manipulation and Events](https://github.com/micahwierenga/dom-manipulation-and-events)
