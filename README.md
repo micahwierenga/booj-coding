@@ -152,7 +152,7 @@ Build JavaScript Objects through Accessing Nested Arrays
   <summary>1. Initials</summary>
     <ol>
       <li>Open terminal and navigate into your booj-coding directory.</li>
-      <li>Create a directory called ```initials-exercise```.</li>
+      <li>Create a directory called <code>initials-exercise</code>.</li>
       <li>Navigate into your new directory and create two new files: `index.html` and `app.js`.</li>
     </ol>
   1. 
