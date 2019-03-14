@@ -13,7 +13,7 @@
     <li><a href="#javascript-functions-and-scope">JavaScript Functions and Scope</a></li>
     <li><a href="#javascript-functions-and-scope-revisited">JavaScript Functions and Scope (Revisited)</a></li>
     <li><a href="#dom-manipulation-and-events">DOM Manipulation and Events</a></li>
-    <li><a href="#(re)installFest-remainders-and-augmented-math">(Re)InstallFest, Remainders, and Augmented Math</a></li>
+    <li><a href="#reinstallFest-remainders-and-augmented-math">(Re)InstallFest, Remainders, and Augmented Math</a></li>
     <li><a href="#arrays-and-scope">Arrays and Scope</a></li>
     <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
   </ol>
