@@ -153,15 +153,11 @@ Build JavaScript Objects through Accessing Nested Arrays
     <ol>
       <li>Open terminal and navigate into your booj-coding directory.</li>
       <li>Create a directory called <code>initials-exercise</code>.</li>
-      <li>Navigate into your new directory and create two new files: `index.html` and `app.js`.</li>
+      <li>Navigate into your new directory and create two new files: <code>index.html</code> and <code>app.js</code>.</li>
+      <li>Open your <code>index.html</code> file and create an HTML shell. Then link to <code>app.js</code>.</li>
+      <li>In <code>app.js</code>, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).</li>
+      <li>Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are <code>"Jane"</code> and <code>"Smith"</code>, you will return the string <code>"J.S."</code>.</li>
     </ol>
-  1. 
-  2. 
-  3. 
-  4. Open your index.html file and create an HTML shell. Then link to app.js.
-  5. In app.js, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).
-  6. Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are "Jane" and "Smith", you will return the string "J.S.".
-  ```
 </details>
 
 <details>
