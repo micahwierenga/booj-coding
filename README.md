@@ -154,19 +154,19 @@ Build JavaScript Objects through Accessing Nested Arrays
 
 <details>
   <summary>2. Days of the Week</summary>
-```
-1. Create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).
-2. Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:
 
-  1 returns "Sunday"
-  2 returns "Monday"
-  3 returns "Tuesday"
-  4 returns "Wednesday"
-  5 returns "Thursday"
-  6 returns "Friday"
-  7 returns "Saturday"
-  Otherwise returns "Wrong, please enter a number between 1 and 7"
-```
+    1. Create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).
+    2. Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:
+
+      1 returns "Sunday"
+      2 returns "Monday"
+      3 returns "Tuesday"
+      4 returns "Wednesday"
+      5 returns "Thursday"
+      6 returns "Friday"
+      7 returns "Saturday"
+      Otherwise returns "Wrong, please enter a number between 1 and 7"
+
 </details>
 
 ## DOM Manipulation and Events
