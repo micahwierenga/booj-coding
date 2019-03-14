@@ -21,7 +21,7 @@
 
 
 
-## Terminal Basics and CSS Selector Basics
+## <span style="color:blue;">Terminal Basics and CSS Selector Basics</span>
 December 12, 2018
 
 ### Lessons
