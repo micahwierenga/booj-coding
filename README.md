@@ -21,7 +21,7 @@
 
 
 
-<h1 style="color:blue;">Terminal Basics and CSS Selector Basics</h1>
+## Terminal Basics and CSS Selector Basics
 December 12, 2018
 
 ### Lessons
