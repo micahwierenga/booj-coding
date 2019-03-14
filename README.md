@@ -167,18 +167,15 @@ Build JavaScript Objects through Accessing Nested Arrays
       <li>Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:</li>
       <ul style="list-style:none;">
         <li>1 returns "Sunday"</li>
-        
+        <li>2 returns "Monday"</li>
+        <li>3 returns "Tuesday"</li>
+        <li>4 returns "Wednesday"</li>
+        <li>5 returns "Thursday"</li>
+        <li>6 returns "Friday"</li>
+        <li>7 returns "Saturday"</li>
+        <li>Otherwise returns "Wrong, please enter a number between 1 and 7"</li>
       </ul>
     </ol>
-      
-      2 returns "Monday"
-      3 returns "Tuesday"
-      4 returns "Wednesday"
-      5 returns "Thursday"
-      6 returns "Friday"
-      7 returns "Saturday"
-      Otherwise returns "Wrong, please enter a number between 1 and 7"
-
 </details>
 
 ## DOM Manipulation and Events
