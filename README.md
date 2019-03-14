@@ -161,7 +161,7 @@ Build JavaScript Objects through Accessing Nested Arrays
 </details>
 
 <details>
-  <summary>2. Days of the Week</summary>
+  <summary>Days of the Week</summary>
     <ol>
       <li>Create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).</li>
       <li>Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:</li>
