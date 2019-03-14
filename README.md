@@ -149,7 +149,7 @@ Build JavaScript Objects through Accessing Nested Arrays
 
 ### Exercise
 <details>
-  <summary>1. Initials</summary>
+  <summary>Initials</summary>
     <ol>
       <li>Open terminal and navigate into your booj-coding directory.</li>
       <li>Create a directory called <code>initials-exercise</code>.</li>
@@ -162,11 +162,15 @@ Build JavaScript Objects through Accessing Nested Arrays
 
 <details>
   <summary>2. Days of the Week</summary>
-
-    1. Create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).
-    2. Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:
-
-      1 returns "Sunday"
+    <ol>
+      <li>Create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).</li>
+      <li>Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:</li>
+      <ul style="list-style:none;">
+        <li>1 returns "Sunday"</li>
+        
+      </ul>
+    </ol>
+      
       2 returns "Monday"
       3 returns "Tuesday"
       4 returns "Wednesday"
