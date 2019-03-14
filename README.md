@@ -13,6 +13,9 @@
     <li><a href="#javascript-functions-and-scope">JavaScript Functions and Scope</a></li>
     <li><a href="#javascript-functions-and-scope-revisited">JavaScript Functions and Scope (Revisited)</a></li>
     <li><a href="#dom-manipulation-and-events">DOM Manipulation and Events</a></li>
+    <li><a href="#(re)installFest-remainders-and-augmented-math">(Re)InstallFest, Remainders, and Augmented Math</a></li>
+    <li><a href="#arrays-and-scope">Arrays and Scope</a></li>
+    <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
   </ol>
 </details>
 
@@ -134,18 +137,34 @@ February 20, 2019
 [JavaScript Functions Lab (Continued)](https://github.com/micahwierenga/js-functions-lab)
 
 
-## 
+## (Re)InstallFest, Remainders, and Augmented Math
 March 6, 2019
+
+### Lesson: freeCodeCamp
+**Finding a Remainder in JavaScript** through **Compound Assignment With Augmented Division**
+
+### Homework: freeCodeCamp
+**Declare String Variables** through **Use Bracket Notation to Find the Nth-to-Last Character in a String**
+
+
+## Arrays and Scope
+March 10, 2019
+
+### Lesson: freeCodeCamp
+**Word Blanks** through **Global vs. Local Scope in Functions**
+
+### Homework: freeCodeCamp
+**Return a Value from a Function with Return** through **Chaining If Else Statements**
 
 
 ## Switch Statements and Boolean Values From Functions
 March 13, 2019
 
 ### Lesson: freeCodeCamp
-Golf Code through Counting Cards
+**Golf Code** through **Counting Cards**
 
 ### Homework: freeCodeCamp
-Build JavaScript Objects through Accessing Nested Arrays
+**Build JavaScript Objects** through **Accessing Nested Arrays**
 
 ### Exercise
 <details>
@@ -179,14 +198,5 @@ Build JavaScript Objects through Accessing Nested Arrays
       </ul>
     </ol>
 </details>
-
-## DOM Manipulation and Events
-TBD
-
-### Lesson
-[DOM Manipulation and Events](https://github.com/micahwierenga/dom-manipulation-and-events)
-
-### Homework
-[Fellowship of the Ring DOM Manipulation](https://github.com/micahwierenga/dom-manipulation-lotr-lab)
 
 
