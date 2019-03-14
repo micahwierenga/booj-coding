@@ -21,7 +21,7 @@
 
 
 
-<h1><span style="color:blue;">Terminal Basics and CSS Selector Basics</span></h1>
+<h1 style="color:blue;">Terminal Basics and CSS Selector Basics</h1>
 December 12, 2018
 
 ### Lessons
