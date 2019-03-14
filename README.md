@@ -148,9 +148,15 @@ Golf Code through Counting Cards
 Build JavaScript Objects through Accessing Nested Arrays
 
 ### Exercise
-1. Initials
-
-
+<details>
+  <summary>1. Initials</summary>
+  1. Open terminal and navigate into your booj-coding directory.
+  2. Create a directory called initials-exercise.
+  3. Navigate into your new directory and create two new files: index.html and app.js.
+  4. Open your index.html file and create an HTML shell. Then link to app.js.
+  5. In app.js, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).
+  6. Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are "Jane" and "Smith", you will return the string "J.S.".
+</details>
 
 <details>
   <summary>2. Days of the Week</summary>
