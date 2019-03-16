@@ -148,7 +148,7 @@ March 6, 2019
 
 
 ## Arrays and Scope
-March 10, 2019
+March 9, 2019
 
 ### Lesson: freeCodeCamp
 **Word Blanks** through **Global vs. Local Scope in Functions**
