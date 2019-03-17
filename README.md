@@ -225,3 +225,4 @@ March 20, 2019
 **Generate Random Fractions with JavaScript** through **Use Multiple Conditional (Ternary) Operators**
 
 ### Exercise
+Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration) repo and follow the instructions.
