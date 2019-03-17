@@ -16,6 +16,7 @@
     <li><a href="#reinstallFest-remainders-and-augmented-math">(Re)InstallFest, Remainders, and Augmented Math</a></li>
     <li><a href="#arrays-and-scope">Arrays and Scope</a></li>
     <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
+    <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
   </ol>
 </details>
 
@@ -200,3 +201,14 @@ March 13, 2019
 </details>
 
 
+## Building, Accessing, and Manipulating Objects
+March 16, 2019
+
+### Lesson: freeCodeCamp
+**Build JavaScript Objects** through **Accessing Nested Arrays**
+
+### Homework: freeCodeCamp
+**Iterate With JavaScript While Loops** through **Iterate with JavaScript Do...While Loops**
+
+### Exercise
+Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
