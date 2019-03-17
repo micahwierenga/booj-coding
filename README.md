@@ -17,6 +17,7 @@
     <li><a href="#arrays-and-scope">Arrays and Scope</a></li>
     <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
+    <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
   </ol>
 </details>
 
@@ -205,10 +206,22 @@ March 13, 2019
 March 16, 2019
 
 ### Lesson: freeCodeCamp
-**Build JavaScript Objects** through **Accessing Nested Arrays**
+**Build JavaScript Objects** through **Record Collection**
 
 ### Homework: freeCodeCamp
 **Iterate With JavaScript While Loops** through **Iterate with JavaScript Do...While Loops**
 
 ### Exercise
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
+
+
+## Iterating With Loops
+March 20, 2019
+
+### Lesson: freeCodeCamp
+**Iterate With JavaScript While Loops** through **Profile Lookup**
+
+### Homework: freeCodeCamp
+**Generate Random Fractions with JavaScript** through **Use Multiple Conditional (Ternary) Operators**
+
+### Exercise
