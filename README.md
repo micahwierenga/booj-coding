@@ -233,7 +233,7 @@ Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-i
 March 27, 2019
 
 ### Lesson: freeCodeCamp
-**Basic JavaScript**:
+**Basic JavaScript**:<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
 ### Homework: freeCodeCamp
