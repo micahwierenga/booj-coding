@@ -144,30 +144,36 @@ February 20, 2019
 March 6, 2019
 
 ### Lesson: freeCodeCamp
-**Finding a Remainder in JavaScript** through **Compound Assignment With Augmented Division**
+**Basic JavaScript**<br>
+Finding a Remainder in JavaScript :: Compound Assignment With Augmented Division
 
 ### Homework: freeCodeCamp
-**Declare String Variables** through **Use Bracket Notation to Find the Nth-to-Last Character in a String**
+**Basic JavaScript**<br>
+Declare String Variables :: Use Bracket Notation to Find the Nth-to-Last Character in a String
 
 
 ## Arrays and Scope
 March 9, 2019
 
 ### Lesson: freeCodeCamp
-**Word Blanks** through **Global vs. Local Scope in Functions**
+**Basic JavaScript**<br>
+Word Blanks :: Global vs. Local Scope in Functions
 
 ### Homework: freeCodeCamp
-**Return a Value from a Function with Return** through **Chaining If Else Statements**
+**Basic JavaScript**<br>
+Return a Value from a Function with Return :: Chaining If Else Statements
 
 
 ## Switch Statements and Boolean Values From Functions
 March 13, 2019
 
 ### Lesson: freeCodeCamp
-**Golf Code** through **Counting Cards**
+**Basic JavaScript**<br>
+Golf Code :: Counting Cards
 
 ### Homework: freeCodeCamp
-**Build JavaScript Objects** through **Accessing Nested Arrays**
+**Basic JavaScript**<br>
+Build JavaScript Objects :: Accessing Nested Arrays
 
 ### Exercise
 <details>
@@ -207,10 +213,12 @@ March 13, 2019
 March 16, 2019
 
 ### Lesson: freeCodeCamp
-**Build JavaScript Objects** through **Record Collection**
+**Basic JavaScript**<br>
+Build JavaScript Objects :: Record Collection
 
 ### Homework: freeCodeCamp
-**Iterate With JavaScript While Loops** through **Iterate with JavaScript Do...While Loops**
+**Basic JavaScript**<br>
+Iterate With JavaScript While Loops :: Iterate with JavaScript Do...While Loops
 
 ### Exercise
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
@@ -220,9 +228,11 @@ Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessi
 March 20, 2019
 
 ### Lesson: freeCodeCamp
-**Iterate With JavaScript While Loops** through **Profile Lookup**
+**Basic JavaScript**<br>
+Iterate With JavaScript While Loops :: Profile Lookup
 
 ### Homework: freeCodeCamp
+**Basic JavaScript**<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
 ### Exercise
@@ -233,9 +243,12 @@ Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-i
 March 27, 2019
 
 ### Lesson: freeCodeCamp
-**Basic JavaScript**:<br>
+**Basic JavaScript**<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
 ### Homework: freeCodeCamp
-**Applied Visual Design**: **Create Visual Balance Using the text-align Property** through **Add a box-shadow to a Card-like Element**
-**Basic Data Structures**: **Use an Array to Store a Collection of Data** through **Copy Array Items Using slice()**
+**Applied Visual Design**<br>
+Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br><br>
+
+**Basic Data Structures**<br>
+Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
