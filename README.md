@@ -175,39 +175,6 @@ Golf Code :: Counting Cards
 **Basic JavaScript**<br>
 Build JavaScript Objects :: Accessing Nested Arrays
 
-### Exercise
-<details>
-  <summary>Initials</summary>
-    <ol>
-      <li>Open terminal and navigate into your booj-coding directory.</li>
-      <li>Create a directory called <code>initials-exercise</code>.</li>
-      <li>Navigate into your new directory and create two new files: <code>index.html</code> and <code>app.js</code>.</li>
-      <li>Open your <code>index.html</code> file and create an HTML shell. Then link to <code>app.js</code>.</li>
-      <li>In <code>app.js</code>, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).</li>
-      <li>Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are <code>"Jane"</code> and <code>"Smith"</code>, you will return the string <code>"J.S."</code>.</li>
-    </ol>
-</details>
-
-<details>
-  <summary>Days of the Week</summary>
-    <ol>
-      <li>Open terminal and navigate into your booj-coding directory.</li>
-      <li>Create a directory called <code>weekdays</code> inside of which create <code>index.html</code> and <code>app.js</code> files. Create the HTML you need and link to your <code>app.js</code></li>
-      <li>In your JavaScript file, create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).</li>
-      <li>Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:</li>
-      <ul style="list-style:none;">
-        <li>1 returns "Sunday"</li>
-        <li>2 returns "Monday"</li>
-        <li>3 returns "Tuesday"</li>
-        <li>4 returns "Wednesday"</li>
-        <li>5 returns "Thursday"</li>
-        <li>6 returns "Friday"</li>
-        <li>7 returns "Saturday"</li>
-        <li>Otherwise returns "Wrong, please enter a number between 1 and 7"</li>
-      </ul>
-    </ol>
-</details>
-
 
 ## Building, Accessing, and Manipulating Objects
 March 16, 2019
@@ -251,3 +218,36 @@ Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) 
 Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br>
 **Basic Data Structures**<br>
 Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
+
+### Exercise
+<details>
+  <summary>Initials</summary>
+    <ol>
+      <li>Open terminal and navigate into your booj-coding directory.</li>
+      <li>Create a directory called <code>initials-exercise</code>.</li>
+      <li>Navigate into your new directory and create two new files: <code>index.html</code> and <code>app.js</code>.</li>
+      <li>Open your <code>index.html</code> file and create an HTML shell. Then link to <code>app.js</code>.</li>
+      <li>In <code>app.js</code>, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).</li>
+      <li>Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are <code>"Jane"</code> and <code>"Smith"</code>, you will return the string <code>"J.S."</code>.</li>
+    </ol>
+</details>
+
+<details>
+  <summary>Days of the Week</summary>
+    <ol>
+      <li>Open terminal and navigate into your booj-coding directory.</li>
+      <li>Create a directory called <code>weekdays</code> inside of which create <code>index.html</code> and <code>app.js</code> files. Create the HTML you need and link to your <code>app.js</code></li>
+      <li>In your JavaScript file, create a function that takes one number as a parameter (if you want help naming the function or the parameter, let me know).</li>
+      <li>Use a switch statement to return the day of the week based on the parameter. Here is how the numbers should map to the days of the week:</li>
+      <ul style="list-style:none;">
+        <li>1 returns "Sunday"</li>
+        <li>2 returns "Monday"</li>
+        <li>3 returns "Tuesday"</li>
+        <li>4 returns "Wednesday"</li>
+        <li>5 returns "Thursday"</li>
+        <li>6 returns "Friday"</li>
+        <li>7 returns "Saturday"</li>
+        <li>Otherwise returns "Wrong, please enter a number between 1 and 7"</li>
+      </ul>
+    </ol>
+</details>
