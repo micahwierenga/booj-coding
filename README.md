@@ -248,7 +248,6 @@ Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) 
 
 ### Homework: freeCodeCamp
 **Applied Visual Design**<br>
-Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br><br>
-
+Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br>
 **Basic Data Structures**<br>
 Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
