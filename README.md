@@ -18,6 +18,7 @@
     <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
     <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
+    <li><a href="random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
   </ol>
 </details>
 
@@ -226,3 +227,14 @@ March 20, 2019
 
 ### Exercise
 Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration) repo and follow the instructions.
+
+
+## Random Numbers, Parsing Integers, and the Ternary Operator
+March 27, 2019
+
+### Lesson: freeCodeCamp
+**Generate Random Fractions with JavaScript** through **Use Multiple Conditional (Ternary) Operators**
+
+### Homework: freeCodeCamp
+**Applied Visual Design**: **Create Visual Balance Using the text-align Property** through **Add a box-shadow to a Card-like Element**
+**Basic Data Structures**: **Use an Array to Store a Collection of Data** through **Copy Array Items Using slice()**
