@@ -223,7 +223,7 @@ March 20, 2019
 **Iterate With JavaScript While Loops** through **Profile Lookup**
 
 ### Homework: freeCodeCamp
-**Generate Random Fractions with JavaScript** through **Use Multiple Conditional (Ternary) Operators**
+Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
 ### Exercise
 Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration) repo and follow the instructions.
@@ -233,7 +233,7 @@ Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-i
 March 27, 2019
 
 ### Lesson: freeCodeCamp
-_Generate Random Fractions with JavaScript_ :: _Use Multiple Conditional (Ternary) Operators_
+Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
 ### Homework: freeCodeCamp
 **Applied Visual Design**: **Create Visual Balance Using the text-align Property** through **Add a box-shadow to a Card-like Element**
