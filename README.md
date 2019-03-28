@@ -203,7 +203,7 @@ Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) 
 ## Random Numbers, Parsing Integers, and the Ternary Operator
 March 27, 2019
 
-### Lesson: freeCodeCamp and [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration)
+### Lesson: freeCodeCamp, [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration)
 **Basic JavaScript**<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
