@@ -224,7 +224,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
       <li>In <code>app.js</code>, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).</li>
       <li>Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are <code>"Jane"</code> and <code>"Smith"</code>, you will return the string <code>"J.S."</code>.</li>
     </ol>
-  <h4>Resources</h4>
+  <h4>Helpful Resources</h4>
   <ul>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string/" target="_blank">Use Bracket Notation to Find the First Character in a String</a></li>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments/" target="_blank">Passing Values to Functions With Arguments</a></li>
@@ -249,7 +249,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
         <li>Otherwise returns "Wrong, please enter a number between 1 and 7"</li>
       </ul>
     </ol>
-  <h4>Resources</h4>
+  <h4>Helpful Resources</h4>
   <ul>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements/">Selecting From Many Options With Switch Statements</a></li>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements/">Adding a Default Option in Switch Statements</a></li>
