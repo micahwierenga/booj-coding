@@ -224,6 +224,10 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
       <li>In <code>app.js</code>, write a function (call it whatever you'd like) that takes two string parameters: a first name and a last name (name the parameters whatever you'd like).</li>
       <li>Inside your function, get the first initials of each parameter and return a string of those initials, including periods after each initial with no space between. So, for example, if your parameters are <code>"Jane"</code> and <code>"Smith"</code>, you will return the string <code>"J.S."</code>.</li>
     </ol>
+  <p><strong>Resources</strong></p>
+  <ul>
+    <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string/" target="_blank">Use Bracket Notation to Find the First Character in a String</a></li>
+  </ul>
 </details>
 
 <details>
