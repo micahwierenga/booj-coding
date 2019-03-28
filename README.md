@@ -227,6 +227,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
   <p><strong>Resources</strong></p>
   <ul>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string/" target="_blank">Use Bracket Notation to Find the First Character in a String</a></li>
+    <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments/" target="_blank">Passing Values to Functions With Arguments</a></li>
   </ul>
 </details>
 
