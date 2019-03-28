@@ -251,6 +251,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
     </ol>
   <h4>Resources</h4>
   <ul>
+    <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements/">Selecting From Many Options With Switch Statements</a></li>
     <li><a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements/">Adding a Default Option in Switch Statements</a></li>
   </ul>
 </details>
