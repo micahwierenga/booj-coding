@@ -187,9 +187,6 @@ Build JavaScript Objects :: Record Collection
 **Basic JavaScript**<br>
 Iterate With JavaScript While Loops :: Iterate with JavaScript Do...While Loops
 
-### Exercise
-Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
-
 
 ## Iterating With Loops
 March 20, 2019
@@ -202,14 +199,11 @@ Iterate With JavaScript While Loops :: Profile Lookup
 **Basic JavaScript**<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
-### Exercise
-Go to the [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration) repo and follow the instructions.
-
 
 ## Random Numbers, Parsing Integers, and the Ternary Operator
 March 27, 2019
 
-### Lesson: freeCodeCamp
+### Lesson: freeCodeCamp and [Objects and Iteration](https://github.com/micahwierenga/objects-and-iteration)
 **Basic JavaScript**<br>
 Generate Random Fractions with JavaScript :: Use Multiple Conditional (Ternary) Operators
 
@@ -251,3 +245,5 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
       </ul>
     </ol>
 </details>
+
+Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
