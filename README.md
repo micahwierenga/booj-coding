@@ -260,7 +260,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
 
 
-## <a name="17" />Applied Visual Design (Part 1), Adding/Removing Items From an Array
+## <a id="17" />Applied Visual Design (Part 1), Adding/Removing Items From an Array
 March 31, 2019
 
 ### Lesson: freeCodeCamp
