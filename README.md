@@ -19,6 +19,7 @@
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
     <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
     <li><a href="random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
+    <li><a href="applied-visual-design-part-1-adding-removing-items-from-an-array">Applied Visual Design (Part 1), Adding/Removing Items From an Array</a></li>
   </ol>
 </details>
 
