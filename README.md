@@ -19,7 +19,7 @@
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
     <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
     <li><a href="random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
-    <li><a href="applied-visual-design-part-1-adding-removing-items-from-an-array">Applied Visual Design (Part 1), Adding/Removing Items From an Array</a></li>
+    <li><a href="17">Applied Visual Design (Part 1), Adding/Removing Items From an Array</a></li>
   </ol>
 </details>
 
@@ -260,7 +260,7 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
 
 
-## Applied Visual Design (Part 1), Adding/Removing Items From an Array
+## <a name="17"></a>Applied Visual Design (Part 1), Adding/Removing Items From an Array
 March 31, 2019
 
 ### Lesson: freeCodeCamp
