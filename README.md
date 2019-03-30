@@ -257,3 +257,19 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
 </details>
 
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
+
+
+## Random Numbers, Parsing Integers, and the Ternary Operator
+March 31, 2019
+
+### Lesson: freeCodeCamp
+**Applied Visual Design**<br>
+Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br>
+**Basic Data Structures**<br>
+Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
+
+### Homework: freeCodeCamp
+**Applied Visual Design**<br>
+Decrease the Opacity of an Element :: Lock an Element to the Browser Window with Fixed Positioning<br>
+**Basic Data Structures**<br>
+Copy an Array with the Spread Operator :: Create complex multi-dimensional arrays
