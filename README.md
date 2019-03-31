@@ -19,7 +19,7 @@
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
     <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
     <li><a href="random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
-    <li><a href="17">Applied Visual Design (Part 1), Adding/Removing Items From an Array</a></li>
+    <li><a href="spread-operator-indexOf-and-multi-dimensional-arrays">Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
   </ol>
 </details>
 
@@ -257,20 +257,19 @@ Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
   </ul>
 </details>
 
-Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
 
-
-## <a id="17" />Applied Visual Design (Part 1), Adding/Removing Items From an Array
+## Spread Operator, indexOf, and Multi-dimensional arrays
 March 31, 2019
 
 ### Lesson: freeCodeCamp
-**Applied Visual Design**<br>
-Create Visual Balance Using the text-align Property :: Add a box-shadow to a Card-like Element<br>
 **Basic Data Structures**<br>
-Use an Array to Store a Collection of Data :: Copy Array Items Using slice()
+Copy an Array with the Spread Operator :: Create complex multi-dimensional arrays
 
 ### Homework: freeCodeCamp
 **Applied Visual Design**<br>
 Decrease the Opacity of an Element :: Lock an Element to the Browser Window with Fixed Positioning<br>
 **Basic Data Structures**<br>
-Copy an Array with the Spread Operator :: Create complex multi-dimensional arrays
+Add Key-Value Pairs to JavaScript Objects :: Modify an Array Stored in an Object
+
+### Exercise
+Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
