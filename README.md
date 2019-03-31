@@ -19,7 +19,7 @@
     <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
     <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
     <li><a href="random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
-    <li><a href="spread-operator-indexOf-and-multi-dimensional-arrays">Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
+    <li><a href="spread-operator-indexOf-and-multidimensional-arrays">Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
   </ol>
 </details>
 
