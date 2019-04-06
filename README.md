@@ -281,7 +281,7 @@ Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessi
 
 ### Homework: freeCodeCamp
 **Applied Visual Design**<br>
-Push Elements Left or Right with the float Property :: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+Push Elements Left or Right with the float Property :: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis<br>
 **Object Oriented Programming**<br>
 Create a Basic JavaScript Object :: Change the Prototype to a New Object
 
