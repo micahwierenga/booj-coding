@@ -273,3 +273,13 @@ Add Key-Value Pairs to JavaScript Objects :: Modify an Array Stored in an Object
 
 ### Exercise
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
+
+
+## asdfads
+
+### Lesson
+
+### Homework: freeCodeCamp
+**Applied Visual Design**<br>
+Push Elements Left or Right with the float Property :: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+
