@@ -292,6 +292,7 @@ Keep going through the **Basic Algorithm Scripting** section. Here is a list of 
 
 <details>
   <summary>Basic Algorithm Scripting Notes</summary>
+  
     // Reverse a String
     split()
     reverse()
