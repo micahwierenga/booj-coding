@@ -287,7 +287,7 @@ Push Elements Left or Right with the float Property :: Use the CSS Transform Pro
 **Object Oriented Programming**<br>
 Create a Basic JavaScript Object :: Change the Prototype to a New Object
 
-### Exercise
+### Optional Exercises
 Keep going through the **Basic Algorithm Scripting** section. Here is a list of methods and logic that you'll need for each (when applicable):
 
 <details>
