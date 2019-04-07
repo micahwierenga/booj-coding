@@ -275,9 +275,11 @@ Add Key-Value Pairs to JavaScript Objects :: Modify an Array Stored in an Object
 Go to the [Accessing Values in Objects](https://github.com/micahwierenga/accessing-values-in-objects) repo and follow the instructions.
 
 
-## asdfads
+## Exploring JavaScript Methods
 
-### Lesson
+### Lesson: freeCodeCamp
+**Basic Algorithm Scripting**<br>
+Convert Celsius to Fahrenheit, Reverse a String, Falsy/Truthy
 
 ### Homework: freeCodeCamp
 **Applied Visual Design**<br>
@@ -285,3 +287,66 @@ Push Elements Left or Right with the float Property :: Use the CSS Transform Pro
 **Object Oriented Programming**<br>
 Create a Basic JavaScript Object :: Change the Prototype to a New Object
 
+### Exercise
+Keep going through the **Basic Algorithm Scripting** section. Here is a list of methods and logic that you'll need for each (when applicable):
+
+<details>
+  <summary>Basic Algorithm Scripting Notes</summary>
+    // Reverse a String
+    split()
+    reverse()
+    join()
+
+    // Return Largest Numbers in Arrays
+    Math.max()
+
+    // Confirm the Ending
+    substring()
+
+    // Repeat a String Repeat a String
+    if-else
+    while
+
+    // Truncate a String
+    if-else
+    substring()
+    concatenation
+
+    // Finders Keepers
+    arr.filter()
+
+    // Boo who
+    typeof
+
+    // Title Case a Sentence
+    toLowerCase()
+    split()
+    charAt(0)
+    toUpperCase()
+    substring()
+    join()
+
+    // Slice and Splice (Note: Feel free to skip this one. I felt that the instructions weren't as clear as I would've preferred.)
+    slice()
+    for loop
+    splice()
+
+    // Falsy Bouncer
+    falsy
+
+    // Where do I Belong
+    sort()
+    for loop
+    if
+
+    // Mutations
+    toLowerCase()
+    split()
+    for loop
+    if
+    indexOf()
+    
+    // Chunky Monkey
+    Note: Haven't completed yet
+
+</details>
