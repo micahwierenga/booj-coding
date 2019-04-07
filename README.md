@@ -3,24 +3,24 @@
 <details>
   <summary>Contents Map</summary>
   <ol>
-    <li><a href="#terminal-basics-and-css-selector-basics">Terminal Basics and CSS Selector Basics</a></li>    
-    <li><a href="#css-selector-basics-continued">CSS Selector Basics, continued</a></li>
-    <li><a href="#css-box-model-and-positioning">CSS Box Model and Positioning</a></li>
-    <li><a href="#git-and-github">Git and GitHub</a></li>
-    <li><a href="#dash-part-1">Dash: Part 1</a></li>
-    <li><a href="#data-types-variables-and-arrays">Data Types, Variables, and Arrays</a></li>
-    <li><a href="#javascript-objects">JavaScript Objects</a></li>
-    <li><a href="#javascript-functions-and-scope">JavaScript Functions and Scope</a></li>
-    <li><a href="#javascript-functions-and-scope-revisited">JavaScript Functions and Scope (Revisited)</a></li>
-    <li><a href="#dom-manipulation-and-events">DOM Manipulation and Events</a></li>
-    <li><a href="#reinstallFest-remainders-and-augmented-math">(Re)InstallFest, Remainders, and Augmented Math</a></li>
-    <li><a href="#arrays-and-scope">Arrays and Scope</a></li>
-    <li><a href="#switch-statements-and-boolean-values-from-functions">Switch Statements and Boolean Values From Functions</a></li>
-    <li><a href="#building-accessing-and-manipulating-objects">Building, Accessing, and Manipulating Objects</a></li>
-    <li><a href="#iterating-with-loops">Iterating With Loops</a></li>
-    <li><a href="#random-numbers-parsing-integers-and-the-ternary-operator">Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
-    <li><a href="#spread-operator-indexOf-and-multi-dimensional-arrays">Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
-    <li><a href="#exploring-javascript-methods">Exploring JavaScript Methods</a></li>
+    <li><a href="#terminal-basics-and-css-selector-basics">Dec 12, 2018: Terminal Basics and CSS Selector Basics</a></li>    
+    <li><a href="#css-selector-basics-continued">Dec 16, 2018: CSS Selector Basics, continued</a></li>
+    <li><a href="#css-box-model-and-positioning">Dec 19, 2018: CSS Box Model and Positioning</a></li>
+    <li><a href="#git-and-github">Jan 6, 2019: Git and GitHub</a></li>
+    <li><a href="#dash-part-1">Jan 9/13, 2019: Dash: Part 1</a></li>
+    <li><a href="#data-types-variables-and-arrays">Feb 2, 2019: Data Types, Variables, and Arrays</a></li>
+    <li><a href="#javascript-objects">Feb 6, 2019: JavaScript Objects</a></li>
+    <li><a href="#javascript-functions-and-scope">Feb 16, 2019: JavaScript Functions and Scope</a></li>
+    <li><a href="#javascript-functions-and-scope-revisited">Feb 20, 2019: JavaScript Functions and Scope (Revisited)</a></li>
+    <li><a href="#dom-manipulation-and-events">Jan 9/13, 2019: DOM Manipulation and Events</a></li>
+    <li><a href="#reinstallFest-remainders-and-augmented-math">Mar 6, 2019: (Re)InstallFest, Remainders, and Augmented Math</a></li>
+    <li><a href="#arrays-and-scope">Mar 9, 2019: Arrays and Scope</a></li>
+    <li><a href="#switch-statements-and-boolean-values-from-functions">Mar 13, 2019: Switch Statements and Boolean Values From Functions</a></li>
+    <li><a href="#building-accessing-and-manipulating-objects">Mar 16, 2019: Building, Accessing, and Manipulating Objects</a></li>
+    <li><a href="#iterating-with-loops">Mar 20, 2019: Iterating With Loops</a></li>
+    <li><a href="#random-numbers-parsing-integers-and-the-ternary-operator">Mar 27, 2019: Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
+    <li><a href="#spread-operator-indexOf-and-multi-dimensional-arrays">Mar 31, 2019: Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
+    <li><a href="#exploring-javascript-methods">Apr 6, 2019: Exploring JavaScript Methods</a></li>
   </ol>
 </details>
 
