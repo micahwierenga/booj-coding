@@ -21,6 +21,7 @@
     <li><a href="#random-numbers-parsing-integers-and-the-ternary-operator">Mar 27, 2019: Random Numbers, Parsing Integers, and the Ternary Operator</a></li>
     <li><a href="#spread-operator-indexOf-and-multi-dimensional-arrays">Mar 31, 2019: Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
     <li><a href="#exploring-javascript-methods">Apr 6, 2019: Exploring JavaScript Methods</a></li>
+    <li><a href="#return-statements-DRY-code-and-object-prototypes">Apr 13, 2019: Return Statements, DRY Code, and Object Prototypes</a></li>
   </ol>
 </details>
 
