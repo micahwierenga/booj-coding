@@ -353,3 +353,82 @@ Keep going through the **Basic Algorithm Scripting** section. Here is a list of 
     Note: Haven't completed yet
 
 </details>
+
+
+## Return Statements, DRY Code, and Object Prototypes
+April 13, 2019
+
+### Lesson: freeCodeCamp
+**Object Oriented Programming**<br>
+Remember to Set the Constructor Property when Changing the Prototype :: Add Methods After Inheritance
+
+### Homework: freeCodeCamp
+**Object Oriented Programming**<br>
+Override Inherited Methods :: Use an IIFE to Create a Module
+**jQuery**<br>
+Learn How Script Tags and Document Ready Work :: Disable an Element Using jQuery
+
+### Optional Exercises
+If you want something extra to work on, continue through the  **Basic Algorithm Scripting** section. Here is a list of methods and logic that you'll need for each (when applicable):
+
+<details>
+  <summary>Basic Algorithm Scripting Notes</summary>
+  
+    // Reverse a String
+    split()
+    reverse()
+    join()
+
+    // Return Largest Numbers in Arrays
+    Math.max()
+
+    // Confirm the Ending
+    substring()
+
+    // Repeat a String Repeat a String
+    if-else
+    while
+
+    // Truncate a String
+    if-else
+    substring()
+    concatenation
+
+    // Finders Keepers
+    arr.filter()
+
+    // Boo who
+    typeof
+
+    // Title Case a Sentence
+    toLowerCase()
+    split()
+    charAt(0)
+    toUpperCase()
+    substring()
+    join()
+
+    // Slice and Splice (Note: Feel free to skip this one. I felt that the instructions weren't as clear as I would've preferred.)
+    slice()
+    for loop
+    splice()
+
+    // Falsy Bouncer
+    falsy
+
+    // Where do I Belong
+    sort()
+    for loop
+    if
+
+    // Mutations
+    toLowerCase()
+    split()
+    for loop
+    if
+    indexOf()
+    
+    // Chunky Monkey
+    Note: Haven't completed yet
+
+</details>
