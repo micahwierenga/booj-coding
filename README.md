@@ -365,7 +365,7 @@ Remember to Set the Constructor Property when Changing the Prototype :: Add Meth
 
 ### Homework: freeCodeCamp
 **Object Oriented Programming**<br>
-Override Inherited Methods :: Use an IIFE to Create a Module
+Override Inherited Methods :: Use an IIFE to Create a Module<br>
 **jQuery**<br>
 Learn How Script Tags and Document Ready Work :: Disable an Element Using jQuery
 
