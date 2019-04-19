@@ -433,3 +433,24 @@ If you want something extra to work on, continue through the  **Basic Algorithm 
     Note: Haven't completed yet
 
 </details>
+
+
+## jQuery: Altering Content, Animations, and Event Listeners
+April 17, 2019
+
+### Lesson: freeCodeCamp
+**Object Oriented Programming**<br>
+Change Text Inside an Element Using jQuery :: Use jQuery to Modify the Entire Page<br>
+**JavaScript 101**<br>
+[How Does jQuery Work?](http://www.micahwierenga.com/javascript_101.pdf)
+
+### Homework
+Finish Part 4 of [intro_to_js_jquery/jquery_code_along/js/main.js](http://micahwierenga.com/intro_to_js_jquery.zip)<br>
+See if you can complete these steps:
+<details>
+  <summary>Basic Algorithm Scripting Notes</summary>
+  1. Create a 2 x 2 table.
+  2. Using jQuery, make each cell's background display a color of your choosing (one color per cell) on the mouseover event.
+  Bonus: If you're able to finish this, try expanding the table to 9 x 9. Or try out different animations and/or different events attached to each cell.
+</details>
+
