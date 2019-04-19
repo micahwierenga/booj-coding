@@ -22,6 +22,7 @@
     <li><a href="#spread-operator-indexOf-and-multi-dimensional-arrays">Mar 31, 2019: Spread Operator, indexOf, and Multi-dimensional arrays</a></li>
     <li><a href="#exploring-javascript-methods">Apr 6, 2019: Exploring JavaScript Methods</a></li>
     <li><a href="#return-statements-DRY-code-and-object-prototypes">Apr 13, 2019: Return Statements, DRY Code, and Object Prototypes</a></li>
+    <li><a href="#jQuery-altering-content-animations-and-event-listeners">April 17, 2019: jQuery: Altering Content, Animations, and Event Listeners</a></li>
   </ol>
 </details>
 
@@ -448,9 +449,11 @@ Change Text Inside an Element Using jQuery :: Use jQuery to Modify the Entire Pa
 Finish Part 4 of [intro_to_js_jquery/jquery_code_along/js/main.js](http://micahwierenga.com/intro_to_js_jquery.zip)<br>
 See if you can complete these steps:
 <details>
-  <summary>Basic Algorithm Scripting Notes</summary>
-  1. Create a 2 x 2 table.
-  2. Using jQuery, make each cell's background display a color of your choosing (one color per cell) on the mouseover event.
-  Bonus: If you're able to finish this, try expanding the table to 9 x 9. Or try out different animations and/or different events attached to each cell.
+  <summary>Mousing Over Background Colors</summary>
+  <ol>
+    <li>Create a 2 x 2 table.</li>
+    <li>Using jQuery, make each cell's background display a color of your choosing (one color per cell) on the mouseover event.</li>
+  </ol>
+  <strong>Bonus:</strong> If you're able to finish this, try expanding the table to 9 x 9. Or try out different animations and/or different events attached to each cell.
 </details>
 
