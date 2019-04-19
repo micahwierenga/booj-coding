@@ -449,7 +449,7 @@ Change Text Inside an Element Using jQuery :: Use jQuery to Modify the Entire Pa
 Finish Part 4 of [intro_to_js_jquery/jquery_code_along/js/main.js](http://micahwierenga.com/intro_to_js_jquery.zip)<br>
 See if you can complete these steps:
 <details>
-  <summary>Mousing Over Background Colors</summary>
+  <summary>Background Colors and the Mouseover Event</summary>
   <ol>
     <li>Create a 2 x 2 table.</li>
     <li>Using jQuery, make each cell's background display a color of your choosing (one color per cell) on the mouseover event.</li>
