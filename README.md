@@ -23,7 +23,7 @@
     <li><a href="#exploring-javascript-methods">Apr 6, 2019: Exploring JavaScript Methods</a></li>
     <li><a href="#return-statements-DRY-code-and-object-prototypes">Apr 13, 2019: Return Statements, DRY Code, and Object Prototypes</a></li>
     <li><a href="#jQuery-altering-content-animations-and-event-listeners">April 17, 2019: jQuery: Altering Content, Animations, and Event Listeners</a></li>
-    <li><a href="#mouseover-and-forms">April 20, 2019: Mouseover and Forms</a></li>
+    <li><a href="#jQuery-mouseover-and-forms">April 20, 2019: jQuery: Mouseover and Forms</a></li>
   </ol>
 </details>
 
