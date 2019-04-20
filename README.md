@@ -457,3 +457,12 @@ See if you can complete these steps:
   <strong>Bonus:</strong> If you're able to finish this, try expanding the table to 9 x 9. Or try out different animations and/or different events attached to each cell.
 </details>
 
+
+## jQuery: Mouseover and Forms
+April 20, 2019
+
+### Lesson
+
+
+### Homework
+[Basic Calculator](https://github.com/micahwierenga/basic-calculator)
