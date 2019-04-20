@@ -23,6 +23,7 @@
     <li><a href="#exploring-javascript-methods">Apr 6, 2019: Exploring JavaScript Methods</a></li>
     <li><a href="#return-statements-DRY-code-and-object-prototypes">Apr 13, 2019: Return Statements, DRY Code, and Object Prototypes</a></li>
     <li><a href="#jQuery-altering-content-animations-and-event-listeners">April 17, 2019: jQuery: Altering Content, Animations, and Event Listeners</a></li>
+    <li><a href="#mouseover-and-forms">April 20, 2019: Mouseover and Forms</a></li>
   </ol>
 </details>
 
@@ -462,7 +463,15 @@ See if you can complete these steps:
 April 20, 2019
 
 ### Lesson
-
+<details>
+  <summary>Background Colors and the Mouseover Event</summary>
+  <ol>
+    <li>Create a 2 x 2 table.</li>
+    <li>Using jQuery, make each cell's background display a color of your choosing (one color per cell) on the mouseover event.</li>
+  </ol>
+  <strong>Bonus:</strong> If you're able to finish this, try expanding the table to 9 x 9. Or try out different animations and/or different events attached to each cell.
+</details>
+MadLibs Exercise
 
 ### Homework
 [Basic Calculator](https://github.com/micahwierenga/basic-calculator)
