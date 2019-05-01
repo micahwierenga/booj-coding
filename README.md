@@ -24,6 +24,8 @@
     <li><a href="#return-statements-DRY-code-and-object-prototypes">Apr 13, 2019: Return Statements, DRY Code, and Object Prototypes</a></li>
     <li><a href="#jQuery-altering-content-animations-and-event-listeners">April 17, 2019: jQuery: Altering Content, Animations, and Event Listeners</a></li>
     <li><a href="#jQuery-mouseover-and-forms">April 20, 2019: jQuery: Mouseover and Forms</a></li>
+    <li><a href="#jQuery-forms-part-2">April 23, 2019: jQuery: Forms (Part 2)</a></li>
+    <li><a href="#jQuery-text-manipulation-and-event-types">April 27, 2019: jQuery: Text Manipulation and Event Types</a></li>
   </ol>
 </details>
 
@@ -475,3 +477,20 @@ MadLibs Exercise
 
 ### Homework
 [Basic Calculator](https://github.com/micahwierenga/basic-calculator)
+
+
+## jQuery: Forms (Part 2)
+April 23, 2019
+
+### Lesson
+Finished [Basic Calculator](https://github.com/micahwierenga/basic-calculator)
+
+
+## jQuery: Text Manipulation and Event Types
+April 27, 2019
+
+### Lesson
+[jQuery Exercises](https://github.com/micahwierenga/jquery-exercises)
+
+### Homework
+Begin working on projects.
